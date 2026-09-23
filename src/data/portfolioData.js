@@ -210,28 +210,6 @@ export const projectsData = [
   },
   {
     id: 4,
-    title: "Electronic Store Dataset Analysis",
-    subtitle: "Sales Intelligence & Exploratory Data Analysis",
-    category: "data-analysis",
-    categoryLabel: "PYTHON & DATA ANALYSIS",
-    description: "An exploratory data analysis project using an electronic store dataset to clean data, analyze product and sales information, and identify useful business insights.",
-    detailedDescription: "Conducted exhaustive data cleaning and exploratory analytics across thousands of retail transactions to uncover top revenue-generating hardware categories, customer purchasing frequency, peak sales seasonality, and pricing elasticity.",
-    imageUrl: "https://images.unsplash.com/photo-1498049794561-7780e7231661?auto=format&fit=crop&w=800&q=80",
-    keyFeatures: [
-      "Comprehensive data wrangling and missing value imputation with Pandas",
-      "Multivariate sales trend analysis across consumer electronic SKUs",
-      "High-impact data visualizations of monthly revenue distributions",
-      "Actionable inventory ordering insights for retail store operations"
-    ],
-    technologies: ["Python", "Pandas", "NumPy", "Data Analysis", "Data Visualization"],
-    status: "View Repository",
-    hasRealRepo: true,
-    githubUrl: "https://github.com/Kavivarshini13/electronic-store-dataset-analysis",
-    badge: "Data Analysis",
-    iconName: "BarChart3"
-  },
-  {
-    id: 5,
     title: "Anime Rating Prediction",
     subtitle: "Machine Learning Regression & Score Forecasting",
     category: "ai-ml",
@@ -253,7 +231,7 @@ export const projectsData = [
     iconName: "Sparkles"
   },
   {
-    id: 6,
+    id: 5,
     title: "Online Course Reviews using NLP",
     subtitle: "Sentiment Analysis & Text Feedback Mining",
     category: "ai-ml",
@@ -275,7 +253,7 @@ export const projectsData = [
     iconName: "Brain"
   },
   {
-    id: 7,
+    id: 6,
     title: "Lost and Found Portal",
     subtitle: "Community Web Platform for Campus Item Recovery",
     category: "web-db",
